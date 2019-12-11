@@ -1,0 +1,26 @@
+{
+  "name": "sailboat-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyncins/sailboat-front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asyncins/sailboat-front/issues"
+  },
+  "homepage": "https://github.com/asyncins/sailboat-front#readme",
+  "devDependencies": {
+    "umi": "^2.12.5",
+    "umi-plugin-react": "^1.14.8"
+  }
+}
